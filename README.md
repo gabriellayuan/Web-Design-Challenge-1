@@ -1,8 +1,6 @@
-# Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard
 
-### Overview:
-
- A Dashboard website to visualize the weather of 500+ cities across the world of varying distance from the equator using HTML5, CSS3 and Bootstrap. Specifically, we will be plotting weather data.
+ A Dashboard to visualize the weather of 500+ cities across the world of varying distance from the equator using HTML5, CSS3 and Bootstrap. 
  
  In this dashboard, each plot has an individual page and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. We also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
  
